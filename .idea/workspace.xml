@@ -1,78 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="New directory &quot;Work&quot;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/_phpwebdriver.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/support/events/EventFiringWebDriver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/support/events/EventFiringWebDriverNavigation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/support/events/EventFiringWebElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/FileDetector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/HttpCommandExecutor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/LocalFileDetector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteKeyboard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteMouse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteTouchScreen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteWebDriver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteWebElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/UselessFileDetector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverActions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverAlert.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/WebDriverBrowserType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverButtonReleaseAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverBy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/WebDriverCapabilityType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverClickAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverClickAndHoldAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverCommandExecutor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverCompositeAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverContextClickAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverCoordinates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverDimension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverDoubleClickAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverDoubleTapAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverDownAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverEventListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverExceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverExpectedCondition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverFlickAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverFlickFromElementAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverHasInputDevices.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverKeyDownAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverKeyUpAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverKeyboard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverKeys.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverKeysRelatedAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/internal/WebDriverLocatable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverLongPressAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverMouse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverMouseAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverMouseMoveAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverMoveAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverMoveToOffsetAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverNavigation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverOptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverPoint.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverScrollAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverScrollFromElementAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverSearchContext.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverSelect.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverSendKeysAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverSingleKeyAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverTapAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverTargetLocator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverTimeouts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverTouchAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverTouchActions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverTouchScreen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverUpAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverWait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverWindow.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/__init__.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Calendar/test12.js" afterPath="$PROJECT_DIR$/Calendar/test12.js" />
+    <list default="true" id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyTest.iws" />
@@ -181,74 +110,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_phpwebdriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_phpwebdriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interactions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="karaoke.ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -310,12 +171,16 @@
       <created>1405940161901</created>
       <updated>1405940161901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="WebDriver in Work">
+      <created>1405941556604</created>
+      <updated>1405941556604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -328,7 +193,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -351,7 +216,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="New directory &quot;Work&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="New directory &quot;Work&quot;" />
+    <MESSAGE value="WebDriver in Work" />
+    <option name="LAST_COMMIT_MESSAGE" value="WebDriver in Work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
