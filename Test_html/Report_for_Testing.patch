@@ -1,0 +1,187 @@
+Index: JS/Report.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- JS/Report.js	(revision )
++++ JS/Report.js	(revision )
+@@ -1,178 +0,0 @@
+-function onOpen() {
+-    var spreadsheet = SpreadsheetApp.getActive();
+-    var menuItems = [
+-        {name: 'Сгенерировать отчет по тестированию', functionName: 'generateReport_'}
+-    ];
+-    spreadsheet.addMenu('Отчет', menuItems);
+-}
+-
+-
+-function generateReport_() {
+-    //Список интересующих колонок на странице сценариев
+-    var columns = ['Action', 'Chec-List', 'Test-Case', 'Result', 'Status', 'Jira ticket'];
+-    //Список колонок для страницы отчета
+-    var reportColumns = ['Action', 'Chec-List', 'Test-Case', 'Result', 'Status', 'TJira ticket'];
+-    //Функция для формирования массива с информацией о сценариях
+-    var Data = getAllCases(columns);
+-    //Функция создания листа с отчетом
+-    CreateNewSheet();
+-    //Функция сбора и вывода статистики
+-    var stat = FormReport(Data, reportColumns);
+-    ShowStat(stat);
+-}
+-
+-function getAllCases(columns)
+-{
+-    var sheets = SpreadsheetApp.getActive().getSheets();
+-    var data = new Array();
+-
+-    for (q=0; q<sheets.length; q++)
+-    {
+-        SpreadsheetApp.getActive().setActiveSheet(sheets[q]);
+-        data.push(getCases(columns));
+-    }
+-    return data;
+-}
+-
+-function getCases(columns)
+-{
+-    var range = SpreadsheetApp.getActiveSheet().getDataRange().getValues();
+-    var fields = FindFields(range[0], columns);
+-    var parts = new Array();
+-    for (i=1; i<range.length; i++)
+-    {
+-        if (range[i][fields[0]] != '')
+-        {
+-            parts.push(new Array());
+-            parts[parts.length-1]['name'] = range[i][fields[0]];
+-            parts[parts.length-1]['scen'] = new Array();
+-        }
+-
+-        if (range[i][fields[1]] != '')
+-        {
+-            var title = range[i][fields[1]];
+-        }
+-
+-        if (range[i][fields[2]] != '')
+-        {
+-            var scen = new Array();
+-            scen.push(title);
+-            for (j=2; j<fields.length; j++)
+-            {
+-                scen.push(range[i][fields[j]]);
+-            }
+-            parts[parts.length-1]['scen'].push(scen);
+-        }
+-    }
+-    return parts;
+-}
+-
+-
+-function FindFields (data, columns)
+-{
+-    var fields = new Array();
+-    for (i=0; i<columns.length; i++)
+-    {
+-        for (j=0; j<data.length; j++)
+-        {
+-            if (columns[i] == data[j])
+-                fields.push(j);
+-        }
+-    }
+-    return fields;
+-}
+-
+-
+-function CreateNewSheet()
+-{
+-    SpreadsheetApp.getActive().insertSheet('Отчет');
+-    SpreadsheetApp.setActiveSheet(SpreadsheetApp.getActive().getSheetByName('Отчет'));
+-}
+-
+-
+-function FormReport(data, columns)
+-{
+-    var doc = SpreadsheetApp.getActive();
+-    var stat = [0, 0, 0, 0];
+-    doc.appendRow(columns);
+-    doc.setColumnWidth(1, 300);
+-    doc.setColumnWidth(2, 200);
+-    doc.setColumnWidth(3, 300);
+-    doc.setColumnWidth(4, 300);
+-
+-    for (i=0; i<data.length; i++)
+-    {
+-        for (j=0; j<data[i].length; j++)
+-        {
+-            var temp = WritePart(data[i][j], columns);
+-            stat[0] += +temp[0];
+-            stat[1] += +temp[1];
+-            stat[2] += +temp[2];
+-            stat[3] += +temp[3];
+-        }
+-    }
+-    return stat;
+-}
+-
+-
+-
+-function WritePart(data, columns)
+-{
+-    SpreadsheetApp.getActive().appendRow([data['name']]).set;
+-
+-    var line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("A"+line).setFontSize(20);
+-
+-    var defects = 0;
+-    var done = 0;
+-    var skipped = 0;
+-    var other = 0;
+-
+-    for (k=0; k<data['scen'].length; k++)
+-    {
+-        SpreadsheetApp.getActive().appendRow(data['scen'][k]);
+-        var line = SpreadsheetApp.getActive().getLastRow();
+-        switch (data['scen'][k][1])
+-        {
+-            case 'Дефект': defects++; SpreadsheetApp.getActive().getRange("A"+line+":D"+line).setBackground('red'); break;
+-            case 'Реализовано': done++; SpreadsheetApp.getActive().getRange("A"+line+":D"+line).setBackground('green'); break;
+-            case 'Отложено': skipped++; SpreadsheetApp.getActive().getRange("A"+line+":D"+line).setBackground('yellow'); break;
+-            default: other++; SpreadsheetApp.getActive().getRange("A"+line+":D"+line).setBackground('yellow');
+-        }
+-    }
+-    SpreadsheetApp.getActive().appendRow(['', 'Итого по разделу:']);
+-    SpreadsheetApp.getActive().appendRow(['', 'Реализовано:', done, (done/(done+defects+skipped+other)*100).toFixed(2) + "%"]);
+-    line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("B"+line+":D"+line).setBackground('green');
+-    SpreadsheetApp.getActive().appendRow(['', 'Дефектов:', defects, (defects/(done+defects+skipped+other)*100).toFixed(2) + "%"]);
+-    line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("B"+line+":D"+line).setBackground('red');
+-    SpreadsheetApp.getActive().appendRow(['', 'Отложено:', skipped, (skipped/(done+defects+skipped+other)*100).toFixed(2) + "%"]);
+-    line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("B"+line+":D"+line).setBackground('yellow');
+-    SpreadsheetApp.getActive().appendRow(['', 'Другое:', other, (other/(done+defects+skipped+other)*100).toFixed(2) + "%"]);
+-    line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("B"+line+":D"+line).setBackground('yellow');
+-    var stat = [defects, done, skipped, other];
+-    return stat;
+-}
+-
+-
+-function ShowStat(stat)
+-{
+-    SpreadsheetApp.getActive().appendRow(['Всего по проекту:']);
+-    var line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("A"+line).setFontSize(20);
+-    SpreadsheetApp.getActive().appendRow(['Реализовано:', stat[1], (stat[1]/(stat[0]+stat[1]+stat[2]+stat[3])*100).toFixed(2) + "%"]);
+-    line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("A"+line+":C"+line).setBackground('green');
+-    SpreadsheetApp.getActive().appendRow(['Дефектов:', stat[0], (stat[0]/(stat[0]+stat[1]+stat[2]+stat[3])*100).toFixed(2) + "%"]);
+-    line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("A"+line+":C"+line).setBackground('red');
+-    SpreadsheetApp.getActive().appendRow(['Отложено:', stat[2], (stat[2]/(stat[0]+stat[1]+stat[2]+stat[3])*100).toFixed(2) + "%"]);
+-    line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("A"+line+":C"+line).setBackground('yellow');
+-    SpreadsheetApp.getActive().appendRow(['Другое:', stat[3], (stat[3]/(stat[0]+stat[1]+stat[2]+stat[3])*100).toFixed(2) + "%"]);
+-    line = SpreadsheetApp.getActive().getLastRow();
+-    SpreadsheetApp.getActive().getRange("A"+line+":C"+line).setBackground('yellow');
+-}
+\ No newline at end of file
