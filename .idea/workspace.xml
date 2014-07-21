@@ -26,21 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/.name" afterPath="$PROJECT_DIR$/HTML_Test/.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/Test_html.iml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/Test_html.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/encodings.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/fileColors.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/fileColors.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/jsLibraryMappings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/jsLinters/gjslint.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/jsLinters/gjslint.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/misc.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/modules.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/vagrant.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/vagrant.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/vcs.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/.idea/workspace.xml" afterPath="$PROJECT_DIR$/HTML_Test/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/HTML/Test.html" afterPath="$PROJECT_DIR$/HTML_Test/Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test_html/Report_for_Testing.patch" afterPath="$PROJECT_DIR$/HTML_Test/Report_for_Testing.patch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyTest.iws" />
@@ -76,7 +61,7 @@
       <file leaf-file-name="1.Dom_ru.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dom_ru/1.Dom_ru.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="719">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
               <folding />
             </state>
           </provider>
@@ -129,6 +114,11 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="russkih" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -298,7 +288,11 @@
       <created>1405941556604</created>
       <updated>1405941556604</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="WebDriver in Work">
+      <created>1405949803351</created>
+      <updated>1405949803351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -317,6 +311,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Script Monkey" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -329,7 +324,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
