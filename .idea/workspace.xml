@@ -1,8 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_My/_start.php" afterPath="$PROJECT_DIR$/_My/_start.php" />
+    <list default="true" id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="New directory &quot;Work&quot;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/_phpwebdriver.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/support/events/EventFiringWebDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/support/events/EventFiringWebDriverNavigation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/support/events/EventFiringWebElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/FileDetector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/HttpCommandExecutor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/LocalFileDetector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteKeyboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteMouse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteTouchScreen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteWebDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteWebElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/UselessFileDetector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverActions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverAlert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/WebDriverBrowserType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverButtonReleaseAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverBy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/remote/WebDriverCapabilityType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverClickAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverClickAndHoldAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverCommandExecutor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverCompositeAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverContextClickAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverCoordinates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverDimension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverDispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverDoubleClickAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverDoubleTapAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverDownAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverEventListener.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverExceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverExpectedCondition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverFlickAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverFlickFromElementAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverHasInputDevices.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverKeyDownAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverKeyUpAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverKeyboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverKeys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverKeysRelatedAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/internal/WebDriverLocatable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverLongPressAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverMouse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverMouseAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverMouseMoveAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverMoveAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverMoveToOffsetAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverNavigation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverOptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverPoint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverScrollAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverScrollFromElementAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverSearchContext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverSelect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverSendKeysAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/internal/WebDriverSingleKeyAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverTapAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverTargetLocator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverTimeouts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverTouchAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverTouchActions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverTouchScreen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/interactions/touch/WebDriverUpAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverWait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/WebDriverWindow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Work/_phpwebdriver/__init__.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Calendar/test12.js" afterPath="$PROJECT_DIR$/Calendar/test12.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,8 +94,42 @@
   <component name="FavoritesManager">
     <favorites_list name="MyTest" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_start.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Work/_start.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="2" selection-start="261" selection-end="261" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoteMouse.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteMouse.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="7" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.31779662" vertical-offset="165" max-vertical-offset="1470">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Work/_start.php" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -39,7 +144,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -76,6 +181,74 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_phpwebdriver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_phpwebdriver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="karaoke.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -84,40 +257,85 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Work" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="" />
       <created>1405936311350</created>
       <updated>1405936311350</updated>
     </task>
+    <task id="LOCAL-00001" summary="New directory &quot;Work&quot;">
+      <created>1405940161901</created>
+      <updated>1405940161901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -132,9 +350,69 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="New directory &quot;Work&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="New directory &quot;Work&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_My/_start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_html/scool/Report.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2745">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_html/scool/Trening.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="754">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calendar/test12.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="17" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/_start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="261" selection-end="261" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaoke.ru/1.Login&amp;Pass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverActions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.4618644" vertical-offset="690" max-vertical-offset="3000">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteMouse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="7" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.31779662" vertical-offset="165" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

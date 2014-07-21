@@ -10,7 +10,7 @@ function day_click(){
 function createCalendar(id, year, month) {
     var elem = document.getElementById(id);
 
-    var mon = month - 1; // месяцы в JS идут от 0 до 11, а не от 1 до 12
+    var mon = month - 1; // месяцы в scool идут от 0 до 11, а не от 1 до 12
     var d = new Date(year, mon);
 
     var table = '<table id='+'month'+2014+""+4+'><tr><th>пн</th><th>вт</th><th>ср</th><th>чт</th><th>пт</th><th>сб</th><th>вс</th></tr><tr>';
