@@ -23,9 +23,103 @@
     <option name="SHOW_CLOSE_PROMPT" value="true" />
     <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+    <treeState key="changes">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/_phpwebdriver.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/support/events/EventFiringWebDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/support/events/EventFiringWebDriverNavigation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/support/events/EventFiringWebElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/FileDetector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/HttpCommandExecutor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/LocalFileDetector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/Registration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/RemoteKeyboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/RemoteMouse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/RemoteTouchScreen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/RemoteWebDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/RemoteWebElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/UselessFileDetector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/WebDriverActions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverAlert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/WebDriverBrowserType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverButtonReleaseAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverBy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/WebDriverCapabilityType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverClickAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverClickAndHoldAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverCommandExecutor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/WebDriverCompositeAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverContextClickAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverCoordinates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverDimension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverDispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverDoubleClickAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverDoubleTapAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverDownAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverEventListener.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverExceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverExpectedCondition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverFlickAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverFlickFromElementAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverHasInputDevices.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverKeyDownAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverKeyUpAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverKeyboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverKeys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverKeysRelatedAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/internal/WebDriverLocatable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverLongPressAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverMouse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverMouseAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverMouseMoveAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverMoveAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverMoveToOffsetAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverNavigation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverOptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverPoint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverScrollAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverScrollFromElementAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverSearchContext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverSelect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverSendKeysAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/internal/WebDriverSingleKeyAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverTapAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverTargetLocator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverTimeouts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverTouchAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/WebDriverTouchActions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/WebDriverTouchScreen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/interactions/touch/WebDriverUpAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverWait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/WebDriverWindow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_phpwebdriver/__init__.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/_start.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticketland.ru/authorization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VK/base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VK/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VK/login.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Calendar/test12.js" afterPath="$PROJECT_DIR$/Calendar/Calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Calendar/Test1.html" afterPath="$PROJECT_DIR$/Calendar/Test1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyTest.iws" />
@@ -37,6 +131,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyTest$VK.coverage" NAME="VK Coverage Results" MODIFIED="1405962520571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -50,57 +147,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="_start.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/_start.php">
+        <entry file="file://$PROJECT_DIR$/ticketland.ru/_start.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="75" selection-start="258" selection-end="258" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
+            <state line="12" column="2" selection-start="422" selection-end="422" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.Dom_ru.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dom_ru/1.Dom_ru.php">
+      <file leaf-file-name="Registration.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ticketland.ru/Registration.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
+            <state line="26" column="39" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.30084747" vertical-offset="248" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML_Test/Test.html">
+      <file leaf-file-name="authorization.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticketland.ru/authorization.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+            <state line="21" column="0" selection-start="621" selection-end="621" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="465">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+      <file leaf-file-name="3.Autorization.Password.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/karaoke.ru/3.Autorization.Password.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="209" column="0" selection-start="14141" selection-end="14173" vertical-scroll-proportion="-12.875" vertical-offset="2826" max-vertical-offset="3285">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calendar2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calendar1/Calendar2.html">
+      <file leaf-file-name="1.Login&amp;Pass.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/karaoke.ru/1.Login&amp;Pass.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test12.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calendar/test12.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="915">
+            <state line="13" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -126,10 +211,19 @@
       <list>
         <option value="$PROJECT_DIR$/Work/_start.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Work/Hak.php" />
+        <option value="$PROJECT_DIR$/Work/hak_1.js" />
+        <option value="$PROJECT_DIR$/VK/index.php" />
+        <option value="$PROJECT_DIR$/VK/base.php" />
+        <option value="$PROJECT_DIR$/VK/base1.php" />
+        <option value="$PROJECT_DIR$/ticketland.ru/start.php" />
+        <option value="$PROJECT_DIR$/ticketland.ru/Login.php" />
+        <option value="$PROJECT_DIR$/ticketland.ru/Registration.php" />
+        <option value="$PROJECT_DIR$/ticketland.ru/authorization.php" />
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
@@ -167,6 +261,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="MyTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticketland.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -207,15 +325,33 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ticketland.ru" />
       <recent name="$PROJECT_DIR$/Work" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HTML_Test" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Unnamed">
+  <component name="RunManager" selected="PHP Script.authorization.php">
+    <configuration default="false" name="Login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ticketland.ru/Login.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="authorization.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ticketland.ru/authorization.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -247,14 +383,33 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
+    <configuration default="false" name="VK" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$/VK" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="Unnamed" type="JavascriptDebugType" factoryName="JavaScript Debug" editBeforeRun="true" singleton="true" uri="http://localhost:63342/MyTest/Calendar/Test1.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.VK" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.Login.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.authorization.php" />
     </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.authorization.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.Login.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
@@ -295,35 +450,56 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Buildr" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Unicode Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Unicode Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39897698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Script Monkey" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -406,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calendar/test12.js">
+    <entry file="file://$PROJECT_DIR$/Calendar/Calendar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="915">
           <folding />
@@ -451,7 +627,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calendar/test12.js">
+    <entry file="file://$PROJECT_DIR$/Calendar/Calendar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="915">
           <folding />
@@ -473,11 +649,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="754" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/karaoke.ru/1.Login&amp;Pass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Work/_phpwebdriver/interactions/WebDriverActions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.4618644" vertical-offset="690" max-vertical-offset="3000" />
@@ -496,13 +667,6 @@
     <entry file="file://$PROJECT_DIR$/Work/_phpwebdriver/remote/RemoteMouse.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="7" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.35885167" vertical-offset="165" max-vertical-offset="1470" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Calendar/test12.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="915">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML_Test/Report_for_Testing.patch">
@@ -534,6 +698,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Calendar/Test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Work/_start.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="75" selection-start="258" selection-end="258" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
@@ -541,9 +712,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Calendar/Calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="7" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.33289126" vertical-offset="979" max-vertical-offset="2865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="431" column="4" selection-start="7332" selection-end="7332" vertical-scroll-proportion="0.0" vertical-offset="7984" max-vertical-offset="14055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dom_ru/1.Dom_ru.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+        <state line="2" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VK/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2" selection-start="14" selection-end="14" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VK/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="357" column="7" selection-start="21474" selection-end="21474" vertical-scroll-proportion="-18.416666" vertical-offset="4913" max-vertical-offset="5445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VK/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="2" selection-start="363" selection-end="363" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom_ru/_start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="426" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticketland.ru/_phpwebdriver/remote/RemoteMouse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticketland.ru/_start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="2" selection-start="422" selection-end="422" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaoke.ru/1.Login&amp;Pass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaoke.ru/3.Autorization.Password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="209" column="0" selection-start="14141" selection-end="14173" vertical-scroll-proportion="-12.875" vertical-offset="2826" max-vertical-offset="3285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticketland.ru/authorization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="621" selection-end="621" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticketland.ru/Registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="39" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.30084747" vertical-offset="248" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
