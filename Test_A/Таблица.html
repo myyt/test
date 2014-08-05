@@ -1,0 +1,64 @@
+<html>
+<head>
+    <title>Test</title>
+    <meta charset="utf-8">
+</head>
+<body>
+<<form method="post" action="">
+    <table id="dynamic" width="650" border="1" cellspacing="0" cellpadding="5">
+        <tr>
+            <th scope="col">Фото котиков</th>
+            <th scope="col">Test-case</th>
+            <th scope="col">
+                <ul id = "menu">
+                    <li class = "title">
+                        <a href='#'>Ответственное лицо</a>
+                        <ul class = "submenu">
+                            <li><a href='#'>Иванова</a></li>
+                            <li><a href='#'>Петрова</a></li>
+                            <li><a href='#'>Сидорова</a></li>
+                            <li><a href='#'>Петрова-Сидорова</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </th>
+            <th scope="col">
+                <ul id = "menu">
+                    <li class = "title">
+                        <a href='#'>Статус кейса</a>
+                        <ul class = "submenu">
+                            <li><a href='#'>Назначение</a></li>
+                            <li><a href='#'>Готово</a></li>
+                            <li><a href='#'>Неготото</a></li>
+                            <li><a href='#'>Закрыто</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </th>
+            <th scope="col">Результат</th>
+            <th scope="col">Комментарии</th>
+            <th scope="col">&nbsp;</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Выбираем "Форма регистрации"</td>
+            <td>Иванова И.И.</td>
+            <td>Подготовка</td>
+            <td>OK</td>
+            <td>Нужна данные за 2014 год</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Вводим валидные данные</td>
+            <td>Петрова И.И.</td>
+            <td>Исполнен</td>
+            <td>false</td>
+            <td>Проверить на данных за 2013 год</td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+    <input name="Name" type="submit" value="Save">
+</form>
+</body>
+</html>
