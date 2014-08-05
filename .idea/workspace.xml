@@ -41,25 +41,10 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="My">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_A/CSS.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_A/Menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_A/Test_Test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My/_Opera.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_Opera/_start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sitechco/_start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fake/yandex/base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fake/yandex/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fake/yandex/log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fake/yandex/seebase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fake/ucoz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sitechco/Авторизация.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_A/Таблица.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/My/1.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My/12.html" afterPath="$PROJECT_DIR$/My/12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My/2.js" afterPath="$PROJECT_DIR$/My/2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karaoke.ru/_start.php" afterPath="$PROJECT_DIR$/karaoke.ru/_start.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="4cd52c1a-accb-4dda-9fa4-b44c6bbbef0f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Fake/yandex/index.html" afterPath="$PROJECT_DIR$/Fake/yandex/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Fake/yandex/log.php" afterPath="$PROJECT_DIR$/Fake/yandex/log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Fake/yandex/seebase.php" afterPath="$PROJECT_DIR$/Fake/yandex/seebase.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyTest.iws" />
@@ -86,10 +71,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Таблица.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Таблица.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test_A/Таблица.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="34" selection-start="390" selection-end="390" vertical-scroll-proportion="0.21263158" vertical-offset="94" max-vertical-offset="1035">
+            <state line="13" column="34" selection-start="390" selection-end="390" vertical-scroll-proportion="-4.2083335" vertical-offset="94" max-vertical-offset="1035">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fake/yandex/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.12987013" vertical-offset="0" max-vertical-offset="3570">
               <folding />
             </state>
           </provider>
@@ -470,7 +464,11 @@
       <created>1406623486085</created>
       <updated>1406623486086</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="My">
+      <created>1407252110148</created>
+      <updated>1407252110148</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -495,9 +493,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1436" height="878" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32951653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -509,7 +507,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Script Monkey" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32951653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -742,13 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fake/yandex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="3570">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Fake/ucoz.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="27" selection-start="81" selection-end="81" vertical-scroll-proportion="0.10638298" vertical-offset="0" max-vertical-offset="570" />
@@ -850,7 +841,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test_A/Таблица.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="34" selection-start="390" selection-end="390" vertical-scroll-proportion="0.21263158" vertical-offset="94" max-vertical-offset="1035">
+        <state line="13" column="34" selection-start="390" selection-end="390" vertical-scroll-proportion="-4.2083335" vertical-offset="94" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fake/yandex/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.12987013" vertical-offset="0" max-vertical-offset="3570">
           <folding />
         </state>
       </provider>
