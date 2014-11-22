@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CreateJiraTicketConfiguration">
+    <option name="jiraUrl" value="https://testing12.atlassian.net" />
+    <option name="password" value="russkii12" />
+    <option name="project" value="TEST" />
+    <option name="username" value="russkih" />
+  </component>
+</project>
+
