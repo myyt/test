@@ -20,7 +20,6 @@ $webdriver->findElement(WebDriverBy::cssSelector('[class="kineticjs-content"]'))
 
 
 
-
 //$webdriver->close();
 
 echo 'Ok';
